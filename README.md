@@ -214,9 +214,9 @@ Once you have all 3 links, create your submission PDF with:
 ```
 Smart Plant Watering System - Final Submission
 
-Student: [Your Name]
-ID: [Your ID]
-Date: [Today's Date]
+Student: Mohammed Sajahan Bin Allapitchai
+ID: 25014313
+Date: 10-Dec-2025
 
 ---
 
@@ -227,7 +227,7 @@ specifications, pin configuration, software architecture, and FreeRTOS
 task details.
 
 2. Web-Based Project Report  
-Link: [Your Google Sites URL]
+Link: (https://sites.google.com/d/1GyyAtEeG98JHBqbb1jsJ5bjgvGJTgWPO/p/1C8xqgyhqPNePyKZt6_Oq-K-8RGxQGENI/edit)
 Description: Comprehensive report including introduction, objectives, 
 hardware design, software implementation, testing results, challenges, 
 conclusions, and embedded video demonstration.
